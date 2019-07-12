@@ -1,0 +1,160 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "price": 25990,
+      "name": "Смартфон Xiaomi Mi 9T 64Gb Carbon Black",
+      "vendorName": "Xiaomi",
+      "img": "/img/1.jpg",
+      "count": "10\n",
+      "preview": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae amet quibusdam obcaecati quod dicta inventore optio repudiandae vero ipsa.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti voluptatibus, nam cupiditate minima quisquam fuga magni dolore reprehenderit deserunt, culpa accusamus totam vitae laboriosam recusandae esse eius accusantium sapiente possimus perferendis est illum ratione officia ab! Dolorem quae aspernatur officia vel soluta repellat nam modi, totam nesciunt id excepturi, veritatis officiis, nulla, voluptates tempora debitis laudantium. Modi blanditiis iusto vel accusantium aspernatur labore in, error rerum vitae tempore, voluptatem iste! Reprehenderit alias pariatur sunt modi deserunt officiis optio neque a beatae, odio quidem iste ducimus atque quibusdam explicabo, ut quam voluptate distinctio! Est dolore accusamus laudantium sequi repudiandae nam at, magnam vel. Ab iure dignissimos enim qui minus inventore consequuntur fugiat veniam, dolorum officiis, quia omnis, amet illo sit! Molestias nihil distinctio quaerat vel modi earum est totam ex molestiae quas eaque nobis enim corrupti ad dignissimos dolore assumenda, officiis dolorem. Quasi quibusdam asperiores iusto commodi, vero tenetur magni cum voluptate dignissimos similique assumenda porro, reiciendis labore exercitationem modi unde ex facere sed mollitia facilis maxime perspiciatis nam sapiente. Quia amet iste, aut commodi delectus possimus eum harum sit pariatur recusandae est dolorem, excepturi voluptatibus officia quis voluptas tempora laudantium in consequatur blanditiis, totam praesentium quod quas. Voluptates voluptatibus, cumque?"
+    },
+    {
+      "id": 2,
+      "price": 27990,
+      "name": "Смартфон Honor 20 128Gb Sapphire Blue (YAL-L21)",
+      "vendorName": "Honor",
+      "img": "/img/2.jpg",
+      "count": "100",
+      "preview": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae amet quibusdam obcaecati quod dicta inventore optio repudiandae vero ipsa.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti voluptatibus, nam cupiditate minima quisquam fuga magni dolore reprehenderit deserunt, culpa accusamus totam vitae laboriosam recusandae esse eius accusantium sapiente possimus perferendis est illum ratione officia ab! Dolorem quae aspernatur officia vel soluta repellat nam modi, totam nesciunt id excepturi, veritatis officiis, nulla, voluptates tempora debitis laudantium. Modi blanditiis iusto vel accusantium aspernatur labore in, error rerum vitae tempore, voluptatem iste! Reprehenderit alias pariatur sunt modi deserunt officiis optio neque a beatae, odio quidem iste ducimus atque quibusdam explicabo, ut quam voluptate distinctio! Est dolore accusamus laudantium sequi repudiandae nam at, magnam vel. Ab iure dignissimos enim qui minus inventore consequuntur fugiat veniam, dolorum officiis, quia omnis, amet illo sit! Molestias nihil distinctio quaerat vel modi earum est totam ex molestiae quas eaque nobis enim corrupti ad dignissimos dolore assumenda, officiis dolorem. Quasi quibusdam asperiores iusto commodi, vero tenetur magni cum voluptate dignissimos similique assumenda porro, reiciendis labore exercitationem modi unde ex facere sed mollitia facilis maxime perspiciatis nam sapiente. Quia amet iste, aut commodi delectus possimus eum harum sit pariatur recusandae est dolorem, excepturi voluptatibus officia quis voluptas tempora laudantium in consequatur blanditiis, totam praesentium quod quas. Voluptates voluptatibus, cumque?"
+    },
+    {
+      "id": 3,
+      "price": 24990,
+      "name": "Смартфон Apple iPhone 6s 32GB Space Gray (MN0W2RU/A)",
+      "vendorName": "Apple",
+      "img": "/img/3.jpg",
+      "count": 10,
+      "preview": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae amet quibusdam obcaecati quod dicta inventore optio repudiandae vero ipsa.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti voluptatibus, nam cupiditate minima quisquam fuga magni dolore reprehenderit deserunt, culpa accusamus totam vitae laboriosam recusandae esse eius accusantium sapiente possimus perferendis est illum ratione officia ab! Dolorem quae aspernatur officia vel soluta repellat nam modi, totam nesciunt id excepturi, veritatis officiis, nulla, voluptates tempora debitis laudantium. Modi blanditiis iusto vel accusantium aspernatur labore in, error rerum vitae tempore, voluptatem iste! Reprehenderit alias pariatur sunt modi deserunt officiis optio neque a beatae, odio quidem iste ducimus atque quibusdam explicabo, ut quam voluptate distinctio! Est dolore accusamus laudantium sequi repudiandae nam at, magnam vel. Ab iure dignissimos enim qui minus inventore consequuntur fugiat veniam, dolorum officiis, quia omnis, amet illo sit! Molestias nihil distinctio quaerat vel modi earum est totam ex molestiae quas eaque nobis enim corrupti ad dignissimos dolore assumenda, officiis dolorem. Quasi quibusdam asperiores iusto commodi, vero tenetur magni cum voluptate dignissimos similique assumenda porro, reiciendis labore exercitationem modi unde ex facere sed mollitia facilis maxime perspiciatis nam sapiente. Quia amet iste, aut commodi delectus possimus eum harum sit pariatur recusandae est dolorem, excepturi voluptatibus officia quis voluptas tempora laudantium in consequatur blanditiis, totam praesentium quod quas. Voluptates voluptatibus, cumque?"
+    },
+    {
+      "id": 4,
+      "price": 49990,
+      "name": "Смартфон Samsung Galaxy S10E Оникс",
+      "vendorName": "Samsung",
+      "img": "/img/4.jpg",
+      "count": 10,
+      "preview": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae amet quibusdam obcaecati quod dicta inventore optio repudiandae vero ipsa.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti voluptatibus, nam cupiditate minima quisquam fuga magni dolore reprehenderit deserunt, culpa accusamus totam vitae laboriosam recusandae esse eius accusantium sapiente possimus perferendis est illum ratione officia ab! Dolorem quae aspernatur officia vel soluta repellat nam modi, totam nesciunt id excepturi, veritatis officiis, nulla, voluptates tempora debitis laudantium. Modi blanditiis iusto vel accusantium aspernatur labore in, error rerum vitae tempore, voluptatem iste! Reprehenderit alias pariatur sunt modi deserunt officiis optio neque a beatae, odio quidem iste ducimus atque quibusdam explicabo, ut quam voluptate distinctio! Est dolore accusamus laudantium sequi repudiandae nam at, magnam vel. Ab iure dignissimos enim qui minus inventore consequuntur fugiat veniam, dolorum officiis, quia omnis, amet illo sit! Molestias nihil distinctio quaerat vel modi earum est totam ex molestiae quas eaque nobis enim corrupti ad dignissimos dolore assumenda, officiis dolorem. Quasi quibusdam asperiores iusto commodi, vero tenetur magni cum voluptate dignissimos similique assumenda porro, reiciendis labore exercitationem modi unde ex facere sed mollitia facilis maxime perspiciatis nam sapiente. Quia amet iste, aut commodi delectus possimus eum harum sit pariatur recusandae est dolorem, excepturi voluptatibus officia quis voluptas tempora laudantium in consequatur blanditiis, totam praesentium quod quas. Voluptates voluptatibus, cumque?"
+    },
+    {
+      "id": 5,
+      "price": 68990,
+      "name": "Смартфон Samsung Galaxy S10 Перламутр",
+      "vendorName": "Samsung",
+      "img": "/img/5.jpg",
+      "count": 10,
+      "preview": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae amet quibusdam obcaecati quod dicta inventore optio repudiandae vero ipsa.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti voluptatibus, nam cupiditate minima quisquam fuga magni dolore reprehenderit deserunt, culpa accusamus totam vitae laboriosam recusandae esse eius accusantium sapiente possimus perferendis est illum ratione officia ab! Dolorem quae aspernatur officia vel soluta repellat nam modi, totam nesciunt id excepturi, veritatis officiis, nulla, voluptates tempora debitis laudantium. Modi blanditiis iusto vel accusantium aspernatur labore in, error rerum vitae tempore, voluptatem iste! Reprehenderit alias pariatur sunt modi deserunt officiis optio neque a beatae, odio quidem iste ducimus atque quibusdam explicabo, ut quam voluptate distinctio! Est dolore accusamus laudantium sequi repudiandae nam at, magnam vel. Ab iure dignissimos enim qui minus inventore consequuntur fugiat veniam, dolorum officiis, quia omnis, amet illo sit! Molestias nihil distinctio quaerat vel modi earum est totam ex molestiae quas eaque nobis enim corrupti ad dignissimos dolore assumenda, officiis dolorem. Quasi quibusdam asperiores iusto commodi, vero tenetur magni cum voluptate dignissimos similique assumenda porro, reiciendis labore exercitationem modi unde ex facere sed mollitia facilis maxime perspiciatis nam sapiente. Quia amet iste, aut commodi delectus possimus eum harum sit pariatur recusandae est dolorem, excepturi voluptatibus officia quis voluptas tempora laudantium in consequatur blanditiis, totam praesentium quod quas. Voluptates voluptatibus, cumque?"
+    },
+    {
+      "id": 6,
+      "price": 33990,
+      "name": "Смартфон Honor View 20 128GB Sapphire Blue (PCT-L29)",
+      "vendorName": "Honor",
+      "img": "/img/6.jpg",
+      "count": 10,
+      "preview": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae amet quibusdam obcaecati quod dicta inventore optio repudiandae vero ipsa.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti voluptatibus, nam cupiditate minima quisquam fuga magni dolore reprehenderit deserunt, culpa accusamus totam vitae laboriosam recusandae esse eius accusantium sapiente possimus perferendis est illum ratione officia ab! Dolorem quae aspernatur officia vel soluta repellat nam modi, totam nesciunt id excepturi, veritatis officiis, nulla, voluptates tempora debitis laudantium. Modi blanditiis iusto vel accusantium aspernatur labore in, error rerum vitae tempore, voluptatem iste! Reprehenderit alias pariatur sunt modi deserunt officiis optio neque a beatae, odio quidem iste ducimus atque quibusdam explicabo, ut quam voluptate distinctio! Est dolore accusamus laudantium sequi repudiandae nam at, magnam vel. Ab iure dignissimos enim qui minus inventore consequuntur fugiat veniam, dolorum officiis, quia omnis, amet illo sit! Molestias nihil distinctio quaerat vel modi earum est totam ex molestiae quas eaque nobis enim corrupti ad dignissimos dolore assumenda, officiis dolorem. Quasi quibusdam asperiores iusto commodi, vero tenetur magni cum voluptate dignissimos similique assumenda porro, reiciendis labore exercitationem modi unde ex facere sed mollitia facilis maxime perspiciatis nam sapiente. Quia amet iste, aut commodi delectus possimus eum harum sit pariatur recusandae est dolorem, excepturi voluptatibus officia quis voluptas tempora laudantium in consequatur blanditiis, totam praesentium quod quas. Voluptates voluptatibus, cumque?"
+    },
+    {
+      "id": 7,
+      "price": 54990,
+      "name": "Смартфон Apple iPhone XR 64GB Black (MRY42RU/A)",
+      "vendorName": "Apple",
+      "img": "/img/7.jpg",
+      "count": 10,
+      "preview": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae amet quibusdam obcaecati quod dicta inventore optio repudiandae vero ipsa.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti voluptatibus, nam cupiditate minima quisquam fuga magni dolore reprehenderit deserunt, culpa accusamus totam vitae laboriosam recusandae esse eius accusantium sapiente possimus perferendis est illum ratione officia ab! Dolorem quae aspernatur officia vel soluta repellat nam modi, totam nesciunt id excepturi, veritatis officiis, nulla, voluptates tempora debitis laudantium. Modi blanditiis iusto vel accusantium aspernatur labore in, error rerum vitae tempore, voluptatem iste! Reprehenderit alias pariatur sunt modi deserunt officiis optio neque a beatae, odio quidem iste ducimus atque quibusdam explicabo, ut quam voluptate distinctio! Est dolore accusamus laudantium sequi repudiandae nam at, magnam vel. Ab iure dignissimos enim qui minus inventore consequuntur fugiat veniam, dolorum officiis, quia omnis, amet illo sit! Molestias nihil distinctio quaerat vel modi earum est totam ex molestiae quas eaque nobis enim corrupti ad dignissimos dolore assumenda, officiis dolorem. Quasi quibusdam asperiores iusto commodi, vero tenetur magni cum voluptate dignissimos similique assumenda porro, reiciendis labore exercitationem modi unde ex facere sed mollitia facilis maxime perspiciatis nam sapiente. Quia amet iste, aut commodi delectus possimus eum harum sit pariatur recusandae est dolorem, excepturi voluptatibus officia quis voluptas tempora laudantium in consequatur blanditiis, totam praesentium quod quas. Voluptates voluptatibus, cumque?"
+    },
+    {
+      "id": 8,
+      "price": 39990,
+      "name": "Смартфон Huawei P30 Aurora (ELE-L29)",
+      "vendorName": "Huawei",
+      "img": "/img/8.jpg",
+      "count": 10,
+      "preview": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae amet quibusdam obcaecati quod dicta inventore optio repudiandae vero ipsa.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti voluptatibus, nam cupiditate minima quisquam fuga magni dolore reprehenderit deserunt, culpa accusamus totam vitae laboriosam recusandae esse eius accusantium sapiente possimus perferendis est illum ratione officia ab! Dolorem quae aspernatur officia vel soluta repellat nam modi, totam nesciunt id excepturi, veritatis officiis, nulla, voluptates tempora debitis laudantium. Modi blanditiis iusto vel accusantium aspernatur labore in, error rerum vitae tempore, voluptatem iste! Reprehenderit alias pariatur sunt modi deserunt officiis optio neque a beatae, odio quidem iste ducimus atque quibusdam explicabo, ut quam voluptate distinctio! Est dolore accusamus laudantium sequi repudiandae nam at, magnam vel. Ab iure dignissimos enim qui minus inventore consequuntur fugiat veniam, dolorum officiis, quia omnis, amet illo sit! Molestias nihil distinctio quaerat vel modi earum est totam ex molestiae quas eaque nobis enim corrupti ad dignissimos dolore assumenda, officiis dolorem. Quasi quibusdam asperiores iusto commodi, vero tenetur magni cum voluptate dignissimos similique assumenda porro, reiciendis labore exercitationem modi unde ex facere sed mollitia facilis maxime perspiciatis nam sapiente. Quia amet iste, aut commodi delectus possimus eum harum sit pariatur recusandae est dolorem, excepturi voluptatibus officia quis voluptas tempora laudantium in consequatur blanditiis, totam praesentium quod quas. Voluptates voluptatibus, cumque?"
+    },
+    {
+      "id": 9,
+      "price": 39990,
+      "name": "Смартфон Apple iPhone 8 64GB Space Gray  (MQ6G2RU/A)",
+      "vendorName": "Apple",
+      "img": "/img/9.jpg",
+      "count": 10,
+      "preview": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae amet quibusdam obcaecati quod dicta inventore optio repudiandae vero ipsa.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti voluptatibus, nam cupiditate minima quisquam fuga magni dolore reprehenderit deserunt, culpa accusamus totam vitae laboriosam recusandae esse eius accusantium sapiente possimus perferendis est illum ratione officia ab! Dolorem quae aspernatur officia vel soluta repellat nam modi, totam nesciunt id excepturi, veritatis officiis, nulla, voluptates tempora debitis laudantium. Modi blanditiis iusto vel accusantium aspernatur labore in, error rerum vitae tempore, voluptatem iste! Reprehenderit alias pariatur sunt modi deserunt officiis optio neque a beatae, odio quidem iste ducimus atque quibusdam explicabo, ut quam voluptate distinctio! Est dolore accusamus laudantium sequi repudiandae nam at, magnam vel. Ab iure dignissimos enim qui minus inventore consequuntur fugiat veniam, dolorum officiis, quia omnis, amet illo sit! Molestias nihil distinctio quaerat vel modi earum est totam ex molestiae quas eaque nobis enim corrupti ad dignissimos dolore assumenda, officiis dolorem. Quasi quibusdam asperiores iusto commodi, vero tenetur magni cum voluptate dignissimos similique assumenda porro, reiciendis labore exercitationem modi unde ex facere sed mollitia facilis maxime perspiciatis nam sapiente. Quia amet iste, aut commodi delectus possimus eum harum sit pariatur recusandae est dolorem, excepturi voluptatibus officia quis voluptas tempora laudantium in consequatur blanditiis, totam praesentium quod quas. Voluptates voluptatibus, cumque?"
+    },
+    {
+      "id": 10,
+      "price": 65990,
+      "name": "Смартфон Apple iPhone X 64GB Space Gray (MQAC2RU/A)",
+      "vendorName": "Apple",
+      "img": "/img/10.jpg",
+      "count": 10,
+      "preview": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae amet quibusdam obcaecati quod dicta inventore optio repudiandae vero ipsa.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti voluptatibus, nam cupiditate minima quisquam fuga magni dolore reprehenderit deserunt, culpa accusamus totam vitae laboriosam recusandae esse eius accusantium sapiente possimus perferendis est illum ratione officia ab! Dolorem quae aspernatur officia vel soluta repellat nam modi, totam nesciunt id excepturi, veritatis officiis, nulla, voluptates tempora debitis laudantium. Modi blanditiis iusto vel accusantium aspernatur labore in, error rerum vitae tempore, voluptatem iste! Reprehenderit alias pariatur sunt modi deserunt officiis optio neque a beatae, odio quidem iste ducimus atque quibusdam explicabo, ut quam voluptate distinctio! Est dolore accusamus laudantium sequi repudiandae nam at, magnam vel. Ab iure dignissimos enim qui minus inventore consequuntur fugiat veniam, dolorum officiis, quia omnis, amet illo sit! Molestias nihil distinctio quaerat vel modi earum est totam ex molestiae quas eaque nobis enim corrupti ad dignissimos dolore assumenda, officiis dolorem. Quasi quibusdam asperiores iusto commodi, vero tenetur magni cum voluptate dignissimos similique assumenda porro, reiciendis labore exercitationem modi unde ex facere sed mollitia facilis maxime perspiciatis nam sapiente. Quia amet iste, aut commodi delectus possimus eum harum sit pariatur recusandae est dolorem, excepturi voluptatibus officia quis voluptas tempora laudantium in consequatur blanditiis, totam praesentium quod quas. Voluptates voluptatibus, cumque?"
+    },
+    {
+      "id": 11,
+      "price": 44990,
+      "name": "Смартфон Apple iPhone 8 Plus 64GB Space Gray (MQ8L2RU/A)",
+      "vendorName": "Apple",
+      "img": "/img/11.jpg",
+      "count": 10,
+      "preview": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae amet quibusdam obcaecati quod dicta inventore optio repudiandae vero ipsa.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti voluptatibus, nam cupiditate minima quisquam fuga magni dolore reprehenderit deserunt, culpa accusamus totam vitae laboriosam recusandae esse eius accusantium sapiente possimus perferendis est illum ratione officia ab! Dolorem quae aspernatur officia vel soluta repellat nam modi, totam nesciunt id excepturi, veritatis officiis, nulla, voluptates tempora debitis laudantium. Modi blanditiis iusto vel accusantium aspernatur labore in, error rerum vitae tempore, voluptatem iste! Reprehenderit alias pariatur sunt modi deserunt officiis optio neque a beatae, odio quidem iste ducimus atque quibusdam explicabo, ut quam voluptate distinctio! Est dolore accusamus laudantium sequi repudiandae nam at, magnam vel. Ab iure dignissimos enim qui minus inventore consequuntur fugiat veniam, dolorum officiis, quia omnis, amet illo sit! Molestias nihil distinctio quaerat vel modi earum est totam ex molestiae quas eaque nobis enim corrupti ad dignissimos dolore assumenda, officiis dolorem. Quasi quibusdam asperiores iusto commodi, vero tenetur magni cum voluptate dignissimos similique assumenda porro, reiciendis labore exercitationem modi unde ex facere sed mollitia facilis maxime perspiciatis nam sapiente. Quia amet iste, aut commodi delectus possimus eum harum sit pariatur recusandae est dolorem, excepturi voluptatibus officia quis voluptas tempora laudantium in consequatur blanditiis, totam praesentium quod quas. Voluptates voluptatibus, cumque?"
+    },
+    {
+      "id": 12,
+      "price": 44990,
+      "name": "Смартфон Apple iPhone 8 Plus 64GB Gold (MQ8N2RU/A)",
+      "vendorName": "Apple",
+      "img": "/img/12.jpg",
+      "count": 10,
+      "preview": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias beatae amet quibusdam obcaecati quod dicta inventore optio repudiandae vero ipsa.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti voluptatibus, nam cupiditate minima quisquam fuga magni dolore reprehenderit deserunt, culpa accusamus totam vitae laboriosam recusandae esse eius accusantium sapiente possimus perferendis est illum ratione officia ab! Dolorem quae aspernatur officia vel soluta repellat nam modi, totam nesciunt id excepturi, veritatis officiis, nulla, voluptates tempora debitis laudantium. Modi blanditiis iusto vel accusantium aspernatur labore in, error rerum vitae tempore, voluptatem iste! Reprehenderit alias pariatur sunt modi deserunt officiis optio neque a beatae, odio quidem iste ducimus atque quibusdam explicabo, ut quam voluptate distinctio! Est dolore accusamus laudantium sequi repudiandae nam at, magnam vel. Ab iure dignissimos enim qui minus inventore consequuntur fugiat veniam, dolorum officiis, quia omnis, amet illo sit! Molestias nihil distinctio quaerat vel modi earum est totam ex molestiae quas eaque nobis enim corrupti ad dignissimos dolore assumenda, officiis dolorem. Quasi quibusdam asperiores iusto commodi, vero tenetur magni cum voluptate dignissimos similique assumenda porro, reiciendis labore exercitationem modi unde ex facere sed mollitia facilis maxime perspiciatis nam sapiente. Quia amet iste, aut commodi delectus possimus eum harum sit pariatur recusandae est dolorem, excepturi voluptatibus officia quis voluptas tempora laudantium in consequatur blanditiis, totam praesentium quod quas. Voluptates voluptatibus, cumque?"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "productId": 1,
+      "userId": 2,
+      "text": "Большая батарея,хороший процессор,камера отличная",
+      "rating": 5,
+      "publish": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "login": "admin",
+      "password": "admin",
+      "groupId": 1,
+      "uid": "lkhjh5fgf5"
+    },
+    {
+      "id": 2,
+      "login": "user",
+      "password": "user",
+      "groupId": 2,
+      "uid": "c54jko8s23"
+    }
+  ],
+  "userGroups": [
+    {
+      "id": 1,
+      "name": "admins"
+    },
+    {
+      "id": 2,
+      "name": "users"
+    }
+  ]
+}
